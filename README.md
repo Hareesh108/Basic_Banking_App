@@ -9,7 +9,7 @@
 
 ## Please watch this project demo and explanation video :
 - Click Above Thumbnail
-[![Payment-Gateway-Integration](https://img.youtube.com/vi/aSXQbNmphDQ/0.jpg)](https://www.youtube.com/watch?v=aSXQbNmphDQ&t=12s)
+[![Payment-Gateway-Integration](https://img.youtube.com/vi/RN0FrmKz_zY/0.jpg)](https://www.youtube.com/watch?v=RN0FrmKz_zY)
 
 ## Problem Statement/Opportunity :
 - Create a simple dynamic website which has the following specs.
