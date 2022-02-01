@@ -7,7 +7,8 @@
    - CSS
    - JavaScript
 
-## Click Here : https://hareesh108.github.io/Payment-Gateway-Integration/
+## Click Here : 
+- https://hareesh108.github.io/Payment-Gateway-Integration/
 
 ## Please watch this project demo and explanation video :
 - Click Above Thumbnail
