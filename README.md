@@ -19,7 +19,7 @@
 
 ## Below you will find sample images :)
 
-![](image/1.png)
+![](imageS/4.png)
 
 
 ### OVERVIEW
@@ -49,4 +49,3 @@
 
 ### THANK YOU SO MUCH
 
-![](image/4.png)
