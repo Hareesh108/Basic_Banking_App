@@ -19,7 +19,7 @@
 
 ## Below you will find sample images :)
 
-![](imageS/4.png)
+![](images/4.png)
 
 
 ### OVERVIEW
